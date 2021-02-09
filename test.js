@@ -10,6 +10,7 @@ function myFunction() {
       if (openDropdown.classList.contains('show')) {
           openDropdown.classList.remove('show');
         }
+        
       }
     }
   }
